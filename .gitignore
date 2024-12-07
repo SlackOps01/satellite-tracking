@@ -1,0 +1,5 @@
+*.txt
+app.py
+*.html
+*.env
+scraping.py
